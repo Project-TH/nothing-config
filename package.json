@@ -1,7 +1,7 @@
 {
   "name": "Amazome",
   "version": "8.1.0",
-  "description": "❤️Amazone is a POWERFULL Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "nothing-description",
   "main": "./ales/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
